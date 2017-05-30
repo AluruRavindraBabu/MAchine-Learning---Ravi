@@ -1,0 +1,91 @@
+|=================================================================================================================================                   |  87%
+
+| What is the purpose of hierarchical clustering?
+
+1: Give an idea of the relationships between variables or observations
+2: Present a finished picture
+3: None of the others
+4: Inspire other researchers
+
+Selection: 1
+
+| You're the best!
+
+  |===================================================================================================================================                 |  89%
+
+| True or False? When you're doing hierarchical clustering there are strict rules that you MUST follow.
+
+1: False
+2: True
+
+Selection: 2
+
+| Keep trying!
+
+| There are always choices to be made in this area.
+
+1: True
+2: False
+
+Selection: 2
+
+| Keep up the great work!
+
+  |======================================================================================================================================              |  90%
+
+| True or False? There's only one way to measure distance.
+
+1: True
+2: False
+
+Selection: 2
+
+| Keep up the great work!
+
+  |========================================================================================================================================            |  92%
+
+| True or False? Complete linkage is a method of computing distances between clusters.
+
+1: True
+2: False
+
+Selection: 1
+
+| That's correct!
+
+  |==========================================================================================================================================          |  94%
+
+| True or False? Average linkage uses the maximum distance between points of two clusters as the distance between those clusters.
+
+1: True
+2: False
+
+Selection: 2
+
+| Keep up the great work!
+
+  |=============================================================================================================================================       |  95%
+
+| True or False? The number of clusters you derive from your data depends on the distance at which you choose to cut it.
+
+1: True
+2: False
+
+Selection: 1
+
+| That's a job well done!
+
+  |===============================================================================================================================================     |  97%
+
+| True or False? Once you decide basics, such as defining a distance metric and linkage method, hierarchical clustering is deterministic.
+
+1: True
+2: False
+
+Selection: 1
+
+| Excellent job!
+
+  |==================================================================================================================================================  |  98%
+
+| Congratulations! We hope this lesson didn't fluster you or get you too heated!
