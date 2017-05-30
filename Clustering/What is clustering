@@ -1,0 +1,86 @@
+
+
+This is a simple way of quickly examining and displaying multi-dimensional data.
+
+This technique should useful in the early stages of analysis when you're trying to get and understanding of the data,
+
+for  example: Finding some pattern or relationship between different factors or variables. 
+
+As the name suggests hierarchical clustering creates a hierarchy of clusters.
+
+Clustering organizes data points that are close into groups. 
+
+Questions which arises in general are : 
+
+"How do we define close?"
+"How do we group things?"
+"How do we interpret the grouping?" 
+
+Cluster analysis is a very important topic in data analysis..
+
+To get an Idea about the Clustering , 
+consider the random points which we generated. We'll use them to demonstrate hierarchical clustering in this
+lesson. 
+We'll do this in several steps, but first we have to clarify our terms and concepts
+
+
+Hierarchical clustering is an agglomerative or bottom-up, approach.
+
+Each observation starts in its own cluster, and pairs of clusters are merged as one moves up the hierarchy.
+
+Which means that we'll find the closest two points and put them together in one cluster, then find the next closest pair 
+in the updated picture, and so forth. 
+
+We'll repeat this process until we reach a reasonable stopping place.
+
+Note the word "reasonable". 
+
+There's a lot of flexibility in this field and how you perform your analysis depends on your problem. 
+
+One can decide to stop clustering either when the clusters are too far apart to be merged (distance criterion) or
+when there is a sufficiently small number of clusters (number criterion)."
+
+
+there are several ways to measure distance or similarity. 
+I) continuous measures:
+           a) Euclidean distance
+           b) correlation similarity
+II) Binary Measure:
+           a) Manhattan distance
+
+
+
+
+Euclidean distance : 
+
+Given two points on a plane, (x1,y1) and (x2,y2), 
+the Euclidean distance is the square root of the sums of the squares of the distances between the
+two x-coordinates (x1-x2) and the two y-coordinates (y1-y2).
+
+This might appears like probably, as an application of the Pythagorean theorem 
+which yields the length of the hypotenuse of a right triangle.
+
+Euclidean distance is distance "as the crow flies". 
+Many applications, however, can't realistically use crow-flying distance.
+Cars, for instance, have to follow roads.
+
+In this case, we can use Manhattan or city block distance (also known as a taxicab metric).
+http://en.wikipedia.org/wiki/Taxicab_geometry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
