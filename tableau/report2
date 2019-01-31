@@ -1,0 +1,59 @@
+SECTION 1. GETTING STARTED
+SuperStoreUS_2015.xlsx
+
+SECTION 2. YOUR FIRST BARCHART IN TABLEAU
+In this section we learn how to work with CSV (comma separated values) files. Download the top first file if you are using Windows and download the second file if you are using Mac. Remember, to import CSV files into Tableau, select the “Text File” option (not Excel).
+
+Note: If for some reason you are having problems with the CSV file – post a question in the course, and in the meantime use the Excel file (the 3rd file listed below).
+
+OfficeSupplies.csv
+
+OfficeSupplies_MAC.csv
+
+OfficeSupplies.xlsx
+
+SECTION 3. TIMESERIES, AGGREGATION, AND FILTERS
+Once again, we will be working with an Excel file.
+
+Long Term Unemployment Statistics.xlsx
+
+SECTION 4. MAPS AND SCATTERPLOTS
+The attached excel file has three tabs. In this section we will use only the first two.
+
+AmazingMartEU2.xlsx
+
+SECTION 5. JOINING AND BLENDING DATA
+Two datasets will be used in today's tutorial.
+
+Airline Comparison.xlsx
+
+AmazingMartEU2.xlsx
+
+SECTION 6 – TABLE CALCULATIONS, MORE DASHBOARDS, AND STORYTELLING
+Today's dataset is dummy data for an imaginary bank operating in the UK.
+
+UK Bank Customers.csv
+
+SECTION 7 – ADVANCED DATA PREPARATION
+This time we will be using the following spreadsheet, which contains annual sales data for personal vehicles globally.
+
+PersonalVehicleSalesGlobal.xlsx
+
+SECTION 8 – CLUSTERS, CUSTOM TERRITORIES, DESIGN FEATURES
+In this section we will learn and put to use the latest upgrades available in Tableau. And Yes – this section ALSO contains a business challenge that we will solve together!
+
+StartupExpansion.xlsx
+
+US_Cities_Population.csv
+
+SECTION 9 – WHAT'S NEW IN TABLEAU 2018?
+Section 9 Challenge I
+NYC Park Crime Stats
+NYC Parks and Public Spaces – Spatial Files
+Section 9 Challenge II
+Employment and Wages Annual Data
+
+SECTION 10 – COURSE CONCLUSION
+Thank you for taking this course. Here is your take-away roadmap of the lectures broken down into categories:
+
+Tableau-Course-Conclusion.pptx
