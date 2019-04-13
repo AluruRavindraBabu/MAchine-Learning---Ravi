@@ -1,1 +1,15 @@
+Supervised Learning : The goal of the Supervised learning to predict the Target variable based on historical / Experimental Data. 
 
+
+Naming Convensions:-
+
+Features == Predictor variables == Independent Variables
+
+Target Variables == dependent variables == Response Variables. 
+
+
+Once decide to leverage supervised machine learning to solve a problem, 
+Need to identify whether the problem is better suited to classification or regression.
+
+Classification works with Categorical data
+Regression works with 
